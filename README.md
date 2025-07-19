@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hi, I'm Antonina </h1>
-<p align="center">💻 Python Developer | Web, ML & Data Enthusiast 🎨</p>
+<p align="center">💻 Python Developer | Web, ML & Data Enthusiast </p>
 
 ---
 
